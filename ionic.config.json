@@ -1,0 +1,7 @@
+{
+  "name": "pert9",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
